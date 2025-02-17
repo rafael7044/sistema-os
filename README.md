@@ -12,10 +12,11 @@ Sistema OS é um sistema desktop(Windows, Linux ou MAC) para gestão de ordem de
 
 Tecnologias que são usadas neste projeto:
 
-Criação de banco de dados e tabelas no MySQL
-CRUD (Create Read Update e Delete)
-IDE Netbeans
-Java SE
-JDBC (Java Database Connectivity)
-Validação de dados
-Uso do framework iReport para gerar relatórios
+- Criação de banco de dados e tabelas no MySQL
+- CRUD (Create Read Update e Delete)
+- IDE Netbeans
+- Java SE
+- JDBC (Java Database Connectivity)
+- Validação de dados
+- Uso do framework iReport para gerar relatórios
+
